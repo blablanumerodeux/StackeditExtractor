@@ -1,5 +1,7 @@
 # StackEditExtractor
 
+Converts a whole StackEdit workspace backup from json to separated md files.  
+
 ## How to run it 
 
 1. Put your json extraction in the source folder  
